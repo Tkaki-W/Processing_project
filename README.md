@@ -1,1 +1,5 @@
 これは私が大学の講義の自由政策で作ったProcessingとArduinoのファイルになります。アニメキャラをモチーフにして作り、タスクや時間を設定するとシリアル通信によりArduinoに信号が行きサーボモータが動く仕組みとなってます
+
+listファイルにはProcessingファイルが入っていて、パソコンの画面上の描画を担当しています。
+
+arduino_processing_test.inoにはArduinoのC++のファイルが入っていてArduinoのプログラムが入っています
