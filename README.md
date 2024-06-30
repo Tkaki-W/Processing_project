@@ -3,3 +3,6 @@
 listファイルにはProcessingファイルが入っていて、パソコンの画面上の描画を担当しています。
 
 arduino_processing_test.inoにはArduinoのC++のファイルが入っていてArduinoのプログラムが入っています
+
+また、動作はYoutube上で確認できます。
+動画リンク:https://youtu.be/_i28tOE6LT4
